@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622190416 source:c:\users\30041203\desktop\c++ projects\task_6_sem22\main.cpp
+	<iostream>
+	"stack.h"
+	<cstring>
+	<cstdlib>
+	<cmath>
+
+1618254272 c:\users\30041203\desktop\c++ projects\task_6_sem22\stack.h
+	<iostream>
+
